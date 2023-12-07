@@ -16,8 +16,8 @@ Java is my favourite language, so it's 100% implemented in Java for practice pur
 
 ### Quick Sort
 
-![] 
+![](https://github.com/tuan-nguye/SortingVisualizer/blob/main/res/quick_sort_gif.gif "quick sort")
 
 ### Merge Sort
 
-![] 
+![](https://github.com/tuan-nguye/SortingVisualizer/blob/main/res/merge_sort_gif.gif "merge sort")
